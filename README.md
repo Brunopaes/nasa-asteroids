@@ -14,8 +14,8 @@ This project aims to classify, based and physical attributes, the Nasa's monitor
 
 # Python Modules
 
-* __pandas;__
-* __sklearn.__
+* __pandas:__ `pip install pandas`;
+* __sklearn:__ `pip install sklearn`.
 
 -------------------------
 
