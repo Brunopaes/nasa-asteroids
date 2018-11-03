@@ -41,3 +41,10 @@ This project aims to classify, based on morphological and physical attributes, t
 | Not Hazardous  |        1  |          173 |
 
 -------------------------
+
+# References
+
+__Nasa Asteroid's Dataset__:
+* <https://www.kaggle.com/shrutimehta/nasa-asteroids-classification/>
+
+-------------------------
