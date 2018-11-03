@@ -1,6 +1,6 @@
 # Asteroids_Nasa
 
-This project aims to classify, based and physical attributes, the Nasa's monitored asteroids hazardousness. This binary classification project was made in python 3.6.
+This project aims to classify, based on morphological and physical attributes, the Nasa's monitored asteroids hazardousness. This binary classification project was made in python 3.6.
 
 -------------------------
 
