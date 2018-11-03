@@ -7,7 +7,7 @@ import pandas
 class RandomForest(object):
 
     def __init__(self):
-        self.rForest = RandomForestClassifier(n_estimators=30)
+        self.rForest = RandomForestClassifier(n_estimators=100)
         self.data = ImportDF()
         self.data.main()
 
