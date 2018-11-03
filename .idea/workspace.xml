@@ -17,7 +17,7 @@
     <session id="1145072487">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -35,13 +35,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="py" value="4967" />
+          <entry key="py" value="4983" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="4967" />
+          <entry key="Python" value="4983" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -70,13 +70,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scripts/rForest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="276">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
                 <element signature="e#1046#1096#0" />
                 <element signature="e#1046#1070#1" />
-                <marker date="1541204547920" expanded="true" signature="1475:1484" ph="..." />
+                <marker date="1541207542689" expanded="true" signature="1476:1485" ph="..." />
               </folding>
             </state>
           </provider>
@@ -108,9 +108,9 @@
       <list>
         <option value="$PROJECT_DIR$/Scripts/pandas.py" />
         <option value="/anaconda3/envs/p36/lib/python3.6/site-packages/sklearn/externals/joblib/externals/cloudpickle/cloudpickle.py" />
-        <option value="$PROJECT_DIR$/Scripts/rForest.py" />
         <option value="$PROJECT_DIR$/Scripts/importData.py" />
         <option value="$PROJECT_DIR$/Scripts/__init__.py" />
+        <option value="$PROJECT_DIR$/Scripts/rForest.py" />
       </list>
     </option>
   </component>
@@ -283,12 +283,12 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25377643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25377643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,13 +349,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/rForest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
             <element signature="e#1046#1096#0" />
             <element signature="e#1046#1070#1" />
-            <marker date="1541204547920" expanded="true" signature="1475:1484" ph="..." />
+            <marker date="1541207542689" expanded="true" signature="1476:1485" ph="..." />
           </folding>
         </state>
       </provider>
