@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 __author__ = 'Bruno Paes'
-__description__ = 'This project aims to classify, based on attributes, the asteroids hazardousness'
+__description__ = 'This project aims to classify, based on physical attributes, the asteroids hazardousness'
 __email__ = 'brunopaes05@gmail.com'
 __status__ = 'Finalised'
 
