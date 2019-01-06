@@ -4,7 +4,7 @@ This project aims to classify, based on morphological and physical attributes, t
 
 -------------------------
 
-# Project Structure - Directories
+## Project Structure - Directories ##
 
 * __Data:__ _datasets_ directory;
 * __Scripts:__ _python_ scripts directory;
@@ -12,14 +12,20 @@ This project aims to classify, based on morphological and physical attributes, t
 
 -------------------------
 
-# Python Modules
+## Requirements ##
 
-* __pandas:__ `pip install pandas`;
-* __sklearn:__ `pip install sklearn`.
+This project, as dependencies, require the following python libraries:
+
+- scikit-learn;
+- pandas;
+
+To install them, in your anaconda envoironment or virtual envoironment, run the following command:
+
+      pip install sklearn pandas
 
 -------------------------
 
-# Sklearn Models
+## Sklearn Models ##
 
 * __Random Forest.__
     * __model arguments:__
@@ -28,7 +34,7 @@ This project aims to classify, based on morphological and physical attributes, t
         
 -------------------------
 
-# Results
+## Results ##
 
 #### Models Accuracy
 1. The Random Forest model assertiveness rate was: 99.89 %.
@@ -42,7 +48,7 @@ This project aims to classify, based on morphological and physical attributes, t
 
 -------------------------
 
-# References
+## References ##
 
 __Nasa Asteroid's Dataset__:
 * <https://www.kaggle.com/shrutimehta/nasa-asteroids-classification/>
